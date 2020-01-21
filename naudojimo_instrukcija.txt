@@ -1,0 +1,3 @@
+- static main metodas apibrėžtas WarehouseManager.java klasėje;
+- paleidžiant programą reikia įrašyti vieną parametrą - apdorojamo failo pavadinimą. Pvz: java WarehouseManager sample.csv
+- paleidus programą, interaktyviai įvedus ":h" rodomos instrukcijos, kaip toliau naudotis programa
